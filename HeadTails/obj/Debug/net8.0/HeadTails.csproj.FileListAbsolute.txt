@@ -1,0 +1,15 @@
+C:\projects\Csharp projects\HeadTails\HeadTails\bin\Debug\net8.0\HeadTails.exe
+C:\projects\Csharp projects\HeadTails\HeadTails\bin\Debug\net8.0\HeadTails.deps.json
+C:\projects\Csharp projects\HeadTails\HeadTails\bin\Debug\net8.0\HeadTails.runtimeconfig.json
+C:\projects\Csharp projects\HeadTails\HeadTails\bin\Debug\net8.0\HeadTails.dll
+C:\projects\Csharp projects\HeadTails\HeadTails\bin\Debug\net8.0\HeadTails.pdb
+C:\projects\Csharp projects\HeadTails\HeadTails\obj\Debug\net8.0\HeadTails.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Csharp projects\HeadTails\HeadTails\obj\Debug\net8.0\HeadTails.AssemblyInfoInputs.cache
+C:\projects\Csharp projects\HeadTails\HeadTails\obj\Debug\net8.0\HeadTails.AssemblyInfo.cs
+C:\projects\Csharp projects\HeadTails\HeadTails\obj\Debug\net8.0\HeadTails.csproj.CoreCompileInputs.cache
+C:\projects\Csharp projects\HeadTails\HeadTails\obj\Debug\net8.0\HeadTails.sourcelink.json
+C:\projects\Csharp projects\HeadTails\HeadTails\obj\Debug\net8.0\HeadTails.dll
+C:\projects\Csharp projects\HeadTails\HeadTails\obj\Debug\net8.0\refint\HeadTails.dll
+C:\projects\Csharp projects\HeadTails\HeadTails\obj\Debug\net8.0\HeadTails.pdb
+C:\projects\Csharp projects\HeadTails\HeadTails\obj\Debug\net8.0\HeadTails.genruntimeconfig.cache
+C:\projects\Csharp projects\HeadTails\HeadTails\obj\Debug\net8.0\ref\HeadTails.dll
